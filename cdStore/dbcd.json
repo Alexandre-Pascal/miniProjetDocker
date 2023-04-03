@@ -1,0 +1,19 @@
+{
+
+"CD":[
+{"id": 1, "title": "The Dark Side of the Moon", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png", "dateDeSortie": "1973-03-01", "quantity": 20, "onsale": true},
+      {"id": 2, "title": "The Wall", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Wall_Cover.svg/langfr-220px-The_Wall_Cover.svg.png", "dateDeSortie": "1979-11-30", "quantity": 10, "onsale": true},
+      {"id": 3, "title": "Wish You Were Here", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a4/Pink_Floyd%2C_Wish_You_Were_Here_%281975%29.png", "dateDeSortie": "1975-09-12", "quantity": 30, "onsale": true},
+      {"id": 4, "title": "Animals", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/74/Pink_Floyd-Animals-Frontal.jpg", "dateDeSortie": "1977-01-23", "quantity": 10, "onsale": true},
+      {"id": 5, "title": "The Division Bell", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6e/Pink_Floyd_-_Division_Bell.jpg", "dateDeSortie": "1994-03-28", "quantity": 40, "onsale": true},
+      {"id": 6, "title": "The Piper at the Gates of Dawn", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3c/PinkFloyd-album-piperatthegatesofdawn_300.jpg", "dateDeSortie": "1967-08-06", "quantity": 10, "onsale": true},
+      {"id": 7, "title": "Meddle", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d4/MeddleCover.jpeg", "dateDeSortie": "1971-11-12", "quantity": 15, "onsale": true},
+      {"id": 8, "title": "Atom Heart Mother", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2e/AtomHeartMotherCover.jpeg", "dateDeSortie": "1970-09-10", "quantity": 87, "onsale": true},
+      {"id": 9, "title": "A Saucerful of Secrets", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/54/Saucerful_of_secrets2.jpg", "dateDeSortie": "1968-06-29", "quantity": 30, "onsale": true},
+      {"id": 10, "title": "Ummagumma", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/16/PinkFloyd-album-ummagummastudio-300.jpg", "dateDeSortie": "1969-11-26", "quantity": 11, "onsale": true},
+      {"id": 11, "title": "The Final Cut", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e4/FloydFC-Cover01.jpg", "dateDeSortie": "1983-02-26", "quantity": 14, "onsale": true},
+      {"id": 12, "title": "A Momentary Lapse of Reason", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4e/MLoRLP01.jpg", "dateDeSortie": "1987-09-28", "quantity": 12, "onsale": true},
+      {"id": 13, "title": "The Endless River", "author": "Pink Floyd", "price": 20, "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/be/Pink_Floyd_-_The_Endless_River_%28Artwork%29.jpg", "dateDeSortie": "2014-11-10", "quantity": 15, "onsale": true}
+]
+
+}
